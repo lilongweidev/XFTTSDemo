@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">XFTTSDemo</string>
+    
+    <string-array name="voicer_name">
+        <item>讯飞小燕</item>
+        <item>讯飞许久</item>
+        <item>讯飞小萍</item>
+        <item>讯飞小婧</item>
+        <item>讯飞许小宝</item>
+    </string-array>
+    <string-array name="voicer_value">
+        <item>xiaoyan</item>
+        <item>aisjiuxu</item>
+        <item>aisxping</item>
+        <item>aisjinger</item>
+        <item>aisbabyxu</item>
+    </string-array>
+
+</resources>
